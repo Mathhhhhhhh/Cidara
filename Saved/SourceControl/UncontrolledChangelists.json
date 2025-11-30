@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Github/Cidara/Content/Game/Blueprints/GameSystem/BP_GI_Cidara.uasset",
+				"C:/Github/Cidara/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
+				"C:/Github/Cidara/Content/Game/Blueprints/Characters/BP_PlayerCidara.uasset",
+				"C:/Github/Cidara/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset",
+				"C:/Github/Cidara/Content/Game/Blueprints/Characters/LigthRune/BP_RevealableActor.uasset",
+				"C:/Github/Cidara/Content/Game/Blueprints/LigthRune/BP_RevealableActor.uasset",
+				"C:/Github/Cidara/Content/Game/Input/IMC_PlayerCidara.uasset",
+				"C:/Github/Cidara/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.uasset",
+				"C:/Github/Cidara/Content/Game/VFX/LightRune/M_Revealable.uasset",
+				"C:/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Github/Cidara/Content/AdvancedLocomotionV4/Blueprints/GameModes/ALS_GameMode_SP.uasset",
+				"C:/Github/Cidara/Content/Game/Blueprints/GameSystem/BP_GM_Cidara.uasset"
+			]
+		}
+	]
+}
