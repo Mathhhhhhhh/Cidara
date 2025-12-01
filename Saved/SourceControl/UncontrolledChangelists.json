@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mathi/OneDrive/Documents/GitHub/Cidara/Content/Game/Blueprints/Characters/Spectre/BP_Spectre.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/Cidara/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/Cidara/Content/Game/M_Spectre.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/Cidara/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Player_Controller.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/Cidara/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/Cidara/Content/Game/Blueprints/CamManagers/BP_BoxCam.uasset",
+				"C:/Users/mathi/OneDrive/Documents/GitHub/Cidara/Content/Game/Blueprints/CamManagers/BP_CamSpectre.uasset",
 				"C:/Github/Cidara/Content/Game/Blueprints/GameSystem/BP_GI_Cidara.uasset",
 				"C:/Github/Cidara/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
 				"C:/Github/Cidara/Content/Game/Blueprints/Characters/BP_PlayerCidara.uasset",
